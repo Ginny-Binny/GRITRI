@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160236605453",
+    "project_id": "gritri-ffa21",
+    "storage_bucket": "gritri-ffa21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160236605453:android:015b68c33707dbdb9f0544",
+        "android_client_info": {
+          "package_name": "gins.android.gri_tri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160236605453-6hmsfp8dbb6bslc7asbbc39prpj4g584.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1UYJfojZKNMvuCkJQGDBhxgp_vg4_Z-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160236605453-6hmsfp8dbb6bslc7asbbc39prpj4g584.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
